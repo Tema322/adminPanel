@@ -2,6 +2,6 @@
 <xsl:template match="well">
   <div class="alert alert-warning">
     <xsl:value-of select="."/>
-  </div>
+
 </xsl:template>
 </xsl:stylesheet>
