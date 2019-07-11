@@ -6,6 +6,6 @@
     <a href="#">Comments 5<span class="badge">10</span></a><br>
     <a href="#">Updates <span class="badge">2</span></a> 
     <button type="button"555 class="btn btn-primary">Primary <span class="badge">7</span></button>
-</div></div>
+</div></
 </xsl:template>
 </xsl:stylesheet>
