@@ -3,6 +3,6 @@
   <div class="alert alert-Danger">
     <xsl:value-of select="."/>
     555555
-  </div>
+  
 </xsl:template>
 3232
